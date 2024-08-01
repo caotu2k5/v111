@@ -1,0 +1,8 @@
+echo -e "\033[1;31mChào các bạn! Mình là Hyper Networks Channel \033[0m"
+echo -e "\033[1;32mPhiên bản: v2.0 (Build 26)\033[0m"
+echo " " 
+echo -e "\033[1;33m[1]: Gõ lệnh neko để khởi động nhanh nekobox\033[0m"
+echo -e "\033[1;34m[2]: Gõ lệnh tun để khởi động psiphon 0đ\033[0m"
+echo -e "\033[1;35m[3]: Gõ lệnh qexit để thoát nhanh termux\033[0m"
+echo -e "\033[1;36m[4]: Gõ lệnh tmwl để bật chạy nền\033[0m"
+echo " "
